@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kodebot
-- 👀 I’m interested in `dotnet`, `C#`, `ReactJS`, `Angular` and `Go`
+- 👀 I’m interested in `dotnet`, `C#`, `ReactJS`, `Angular`, `Go`, `Python`, `AI` and `Azure`
 
 
 <!---
