@@ -1,7 +1,7 @@
 
 ### Hi there! 👋  
 
-I'm a **Lead Software Engineer** with **20 years of experience** in **C# and .NET**, specializing in **cloud technologies, distributed systems, and backend architecture**. I have a strong background in **AI, DevOps, and performance optimization** and have worked extensively in **enterprise software development**.  
+I'm a **Lead Software Engineer/Architect** with **20 years of experience** in **C# and .NET**, specializing in **cloud technologies, distributed systems, and backend architecture**. I have a strong background in **AI, DevOps, and performance optimization** and have worked extensively in **enterprise software development**.  
 
 💡 I use GitHub to experiment with new technologies, frameworks, and architectures. You'll find **various prototypes, research projects, and POCs** related to **Cloud, AI, and distributed systems** here.  
 
